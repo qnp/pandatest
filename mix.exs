@@ -1,4 +1,4 @@
-defmodule Pandatest.MixProject do
+defmodule PandaTest.MixProject do
   use Mix.Project
 
   def project do

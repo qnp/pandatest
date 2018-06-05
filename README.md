@@ -1,4 +1,4 @@
-# Pandatest
+# PandaTest
 
 **TODO: Add description**
 

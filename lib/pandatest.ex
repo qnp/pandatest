@@ -1,6 +1,6 @@
-defmodule Pandatest do
+defmodule PandaTest do
   @moduledoc """
-  Documentation for Pandatest.
+  Documentation for PandaTest.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule Pandatest do
 
   ## Examples
 
-      iex> Pandatest.hello
+      iex> PandaTest.hello
       :world
 
   """

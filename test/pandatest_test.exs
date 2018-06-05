@@ -1,8 +1,8 @@
-defmodule PandatestTest do
+defmodule PandaTestTest do
   use ExUnit.Case
-  doctest Pandatest
+  doctest PandaTest
 
   test "greets the world" do
-    assert Pandatest.hello() == :world
+    assert PandaTest.hello() == :world
   end
 end
